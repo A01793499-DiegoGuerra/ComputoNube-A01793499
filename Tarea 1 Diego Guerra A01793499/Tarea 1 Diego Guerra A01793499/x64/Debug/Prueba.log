@@ -1,0 +1,5 @@
+﻿  Prueba.cpp
+C:\Users\DIEGO\source\repos\Prueba\Prueba\Prueba.cpp(29,24): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\DIEGO\source\repos\Prueba\Prueba\Prueba.cpp(30,25): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\DIEGO\source\repos\Prueba\Prueba\Prueba.cpp(14,5): warning C4101: 'i': unreferenced local variable
+  Prueba.vcxproj -> C:\Users\DIEGO\source\repos\Prueba\x64\Debug\Prueba.exe
